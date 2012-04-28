@@ -4,6 +4,3 @@ This repo will host the code and wiki for team Fjord's capstone project for the 
 
 The project will modify the Linux kernel, with the ultimate goal of severely reducing its size.
 
-TODO:
--Do what we want to do with the wiki
--Finalize commitbot test
